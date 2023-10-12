@@ -1,0 +1,26 @@
+﻿  WelcomeC.c
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[50]'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): message : this argument is used by a conversion specifier
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(12,13): message : this argument is used as a buffer size
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char *(*)[50]'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): message : this argument is used by a conversion specifier
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(14,13): message : this argument is used as a buffer size
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(21,37): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[50]'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(21,28): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(21,81): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[50]'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(21,72): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(49,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(49,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(49,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(49,21): message : this argument is used as a buffer size
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(51,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(51,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(51,21): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\muham\source\repos\ProjectC\ProjectC\WelcomeC.c(51,21): message : this argument is used as a buffer size
+  ProjectC.vcxproj -> C:\Users\muham\source\repos\ProjectC\x64\Debug\ProjectC.exe
